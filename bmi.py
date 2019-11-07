@@ -1,3 +1,4 @@
+# Author : Dapinder Singh
 w=input("Enter your weight in kg->")
 h=input("Enter your height in feet->")
 weight=float(w)
